@@ -65,7 +65,7 @@ skills and creating connections that inspire growth.
 
 <br>
 
-<img src="https://i.pinimg.com/736x/f0/79/57/f07957aed60b21ccf74212e048d4613c.jpg" width="170">
+<img src="https://media.tenor.com/aVxpyamsLBEAAAAj/sanrio-my-melody.gif" width="170">
 
 <br>
 
