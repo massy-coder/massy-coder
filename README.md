@@ -8,41 +8,32 @@
 
 <img src="https://i.pinimg.com/originals/61/e9/0c/61e90c7a223576fb018e9348145f08ce.jpg" width="220">
 
-<br>
+<br><br>
 
-୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
+୨୧ ₊˚⊹♡ ─────────────── ♡⊹˚₊ ୨୧
 
 (˶ᵔ ᵕ ᵔ˶) ♡ **hi hi! welcome to my little corner** ♡
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
-<table>
-<tr>
-<td align="center">
+╭─────────────── ୨୧ ───────────────╮
 
-╭────────────── ୨୧ ──────────────╮
+♡ **developer**  ·  ♡ **creative thinker**  
+♡ **python learner**  ·  ♡ **lifelong learner**
 
-♡ **Developer**  
-♡ **Creative Thinker**  
-♡ **Python Learner**  
-♡ **Public Speaker**  
-♡ **Lifelong Learner**
-
-╰────────────── ୨୧ ──────────────╯
-
-</td>
-</tr>
-</table>
+╰─────────────── ୨୧ ───────────────╯
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
 *curiosity · creativity · kindness · growth*
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+୨୧ ₊˚⊹♡ ─────────────── ♡⊹˚₊ ୨୧
 
 ---
 
 # ୨୧ ˚₊‧ About Me ‧₊˚ ୨୧
+
+꒰ა ♡ ໒꒱
 
 I've always been driven by **curiosity and creativity**.
 
@@ -58,6 +49,12 @@ skills and creating connections that inspire growth.
 ╰────────────────────────────────╯
 
 (づ˶•༝•˶)づ♡
+
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+
+<img src="https://i.pinimg.com/736x/f0/79/57/f07957aed60b21ccf74212e048d4613c.jpg" width="170">
+
+୨୧ *a little reminder to keep dreaming* ୨୧
 
 ---
 
@@ -79,25 +76,24 @@ skills and creating connections that inspire growth.
 
 ### ୨୧ Languages ୨୧
 
-**Spanish** ── Native  
-**English** ── Fluent  
-**French** ── Beginner
+**Spanish** ───────── Native  
+**English** ───────── Fluent  
+**French** ────────── Beginner
 
 (｡•̀ᴗ-)✧ *petit à petit...*
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
 ---
 
 # ୨୧ ˚₊‧ Projects ‧₊˚ ୨୧
 
-### ♡ HealthBoost
-
 ╭──────────────────────────────────╮
 
-Participated in the **creation and development
-of HealthBoost**, helping transform an idea
-into a meaningful project.
+### ♡ HealthBoost
+
+Participated in the **creation and development of HealthBoost**,
+helping transform an idea into a meaningful project.
 
 `technology` · `creativity` · `impact`
 
@@ -105,15 +101,20 @@ into a meaningful project.
 
 ૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
+╭──────────────────────────────────╮
+
 ### ♡ Creative Entrepreneurship
 
-Created a small **second-hand clothing business
-with my cousin**, while exploring handmade crafts
-and creative school projects.
+Created a small **second-hand clothing business with my cousin**
+and explored handmade crafts and creative school projects.
 
 `creativity` · `entrepreneurship` · `innovation`
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+╰──────────────────────────────────╯
+
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+
+(˶˃ ᵕ ˂˶)♡ *making little ideas bloom*
 
 ---
 
@@ -135,7 +136,11 @@ Project creation & collaboration.
 
 ╰──────────────────────────────────╯
 
-(˶˃ ᵕ ˂˶) ♡ *small achievements, big dreams*
+૮₍ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+
+*small achievements, big dreams*
+
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
 ---
 
@@ -157,7 +162,7 @@ Project creation & collaboration.
 
 *small actions can create meaningful change*
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+୨୧ ₊˚⊹♡ ─────────────── ♡⊹˚₊ ୨୧
 
 ---
 
@@ -175,7 +180,7 @@ Project creation & collaboration.
 
 <br>
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+୨୧ ₊˚⊹♡ ───────────────── ♡⊹˚₊ ୨୧
 
 (˶ᵔ ᵕ ᵔ˶) ♡ *little commits, little progress*
 
@@ -194,7 +199,7 @@ Project creation & collaboration.
 ♡ Technology  
 ♡ French  
 ♡ Communication  
-♡ Creative Problem Solving  
+♡ Creative Problem Solving
 
 ╰──────────────────────╯
 
@@ -202,17 +207,15 @@ Project creation & collaboration.
 </tr>
 </table>
 
-૮₍ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
 *one little step at a time...*
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
 ---
 
 # ୨୧ ˚₊‧ Let's Connect ‧₊˚ ୨୧
-
-I'm always happy to connect for:
 
 ♡ **Internships**  
 ♡ **Volunteer Opportunities**  
@@ -237,9 +240,11 @@ massiel.nunez2026@mottach.superate.org
 
 <br>
 
-୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
+୨୧ ₊˚⊹♡ ───────────── ⋆｡°✩°｡⋆ ───────────── ♡⊹˚₊ ୨୧
 
-### ૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
+<img src="https://i.pinimg.com/736x/f0/79/57/f07957aed60b21ccf74212e048d4613c.jpg" width="190">
+
+### ૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
 
 **thank you for visiting my little corner**
 
@@ -247,9 +252,11 @@ massiel.nunez2026@mottach.superate.org
 
 <br>
 
-♡₊˚ 🧸 ˚₊♡ ₊˚⊹ ୨୧ ⊹˚₊ ♡₊˚ 🧸 ˚₊♡
+♡₊˚⊹ ୨୧ ⊹˚₊♡
+♡₊˚⊹ ୨୧ ⊹˚₊♡
+♡₊˚⊹ ୨୧ ⊹˚₊♡
 
-₊˚⊹♡ ───────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
 **made with love, creativity & pink pixels**
 
