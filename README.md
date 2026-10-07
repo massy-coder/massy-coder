@@ -2,7 +2,7 @@
 
 # ୨୧ ˚₊‧꒰ა Massiel ໒꒱ ‧₊˚ ୨୧
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&duration=2800&pause=700&color=FF69B4&center=true&vCenter=true&width=650&lines=welcome+to+my+little+corner+%E2%99%A1;developer+%E2%80%A2+creative+thinker+%E2%80%A2+dreamer;turning+ideas+into+meaningful+things+%E2%9C%A7;always+learning+%E2%80%A2+always+creating+%E2%80%A2+always+growing" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=2600&pause=650&color=FF69B4&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+%E2%99%A1;hi%2C+I'm+Massiel+%E2%8A%B9;developer+%E2%80%A2+creative+thinker+%E2%80%A2+dreamer;turning+ideas+into+meaningful+things+%E2%99%A1;always+learning+%E2%80%A2+always+creating+%E2%80%A2+always+growing" />
 
 <br>
 
@@ -10,28 +10,39 @@
 
 <br><br>
 
-୨୧ ₊˚⊹♡ ─────────────── ♡⊹˚₊ ୨୧
+୨୧ ₊˚⊹♡ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ♡⊹˚₊ ୨୧
 
-(˶ᵔ ᵕ ᵔ˶) ♡ **hi hi! welcome to my little corner** ♡
+### <font color="#FF69B4">(˶ᵔ ᵕ ᵔ˶) ♡ hi hi! welcome to my little corner ♡</font>
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────────────────── ♡⊹˚₊
+
+<table>
+<tr>
+<td align="center">
 
 ╭─────────────── ୨୧ ───────────────╮
 
-♡ **developer**  ·  ♡ **creative thinker**  
-♡ **python learner**  ·  ♡ **lifelong learner**
+♡ **developer**  
+♡ **creative thinker**  
+♡ **python learner**  
+♡ **public speaker**  
+♡ **lifelong learner**
 
 ╰─────────────── ୨୧ ───────────────╯
 
+</td>
+</tr>
+</table>
+
 ૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
-*curiosity · creativity · kindness · growth*
+<font color="#FF69B4">curiosity · creativity · kindness · growth</font>
 
-୨୧ ₊˚⊹♡ ─────────────── ♡⊹˚₊ ୨୧
+୨୧ ₊˚⊹♡ ───────────────────── ♡⊹˚₊ ୨୧
 
 ---
 
-# ୨୧ ˚₊‧ About Me ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">About Me</font> ‧₊˚ ୨୧
 
 ꒰ა ♡ ໒꒱
 
@@ -50,15 +61,19 @@ skills and creating connections that inspire growth.
 
 (づ˶•༝•˶)づ♡
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+<font color="#FF69B4">₊˚⊹♡ making ideas bloom ♡⊹˚₊</font>
+
+<br>
 
 <img src="https://i.pinimg.com/736x/f0/79/57/f07957aed60b21ccf74212e048d4613c.jpg" width="170">
 
-୨୧ *a little reminder to keep dreaming* ୨୧
+<br>
+
+୨୧ <font color="#FF69B4">a little reminder to keep dreaming</font> ୨୧
 
 ---
 
-# ୨୧ ˚₊‧ Skills ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">Skills</font> ‧₊˚ ୨୧
 
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
 
@@ -74,19 +89,27 @@ skills and creating connections that inspire growth.
 
 ╰──────────────────────────────╯
 
-### ୨୧ Languages ୨୧
+### ୨୧ <font color="#FF69B4">Languages</font> ୨୧
 
 **Spanish** ───────── Native  
 **English** ───────── Fluent  
 **French** ────────── Beginner
 
-(｡•̀ᴗ-)✧ *petit à petit...*
+(｡•̀ᴗ-)✧ <font color="#FF69B4">petit à petit...</font>
 
 ₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
+<br>
+
+<img src="https://media.tenor.com/c6gKyfu4E_4AAAAM/typing-hello-kitty.gif" width="200">
+
+<br>
+
+<font color="#FF69B4">૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡ busy coding...</font>
+
 ---
 
-# ୨୧ ˚₊‧ Projects ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">Projects</font> ‧₊˚ ୨୧
 
 ╭──────────────────────────────────╮
 
@@ -99,7 +122,7 @@ helping transform an idea into a meaningful project.
 
 ╰──────────────────────────────────╯
 
-૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
+૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
 
 ╭──────────────────────────────────╮
 
@@ -114,11 +137,11 @@ and explored handmade crafts and creative school projects.
 
 ₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
-(˶˃ ᵕ ˂˶)♡ *making little ideas bloom*
+<font color="#FF69B4">(˶˃ ᵕ ˂˶)♡ making little ideas bloom</font>
 
 ---
 
-# ୨୧ ˚₊‧ Achievements ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">Achievements</font> ‧₊˚ ୨୧
 
 ╭──────────────────────────────────╮
 
@@ -138,13 +161,13 @@ Project creation & collaboration.
 
 ૮₍ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
 
-*small achievements, big dreams*
+<font color="#FF69B4">small achievements, big dreams</font>
 
 ₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
 ---
 
-# ୨୧ ˚₊‧ Creating Impact ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">Creating Impact</font> ‧₊˚ ୨୧
 
 **TECHO Panamá** ♡ **Muchachas Guías** ♡ **¡Supérate!**
 
@@ -160,13 +183,13 @@ Project creation & collaboration.
 
 (づ｡◕‿‿◕｡)づ ♡
 
-*small actions can create meaningful change*
+<font color="#FF69B4">small actions can create meaningful change</font>
 
 ୨୧ ₊˚⊹♡ ─────────────── ♡⊹˚₊ ୨୧
 
 ---
 
-# ୨୧ ˚₊‧ GitHub Garden ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">GitHub Garden</font> ‧₊˚ ୨୧
 
 <img src="https://github-readme-stats.vercel.app/api?username=massy-coder&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff0f6&border_radius=20" />
 
@@ -182,11 +205,11 @@ Project creation & collaboration.
 
 ୨୧ ₊˚⊹♡ ───────────────── ♡⊹˚₊ ୨୧
 
-(˶ᵔ ᵕ ᵔ˶) ♡ *little commits, little progress*
+(˶ᵔ ᵕ ᵔ˶) ♡ <font color="#FF69B4">little commits, little progress</font>
 
 ---
 
-# ୨୧ ˚₊‧ Currently Learning ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">Currently Learning</font> ‧₊˚ ୨୧
 
 <table>
 <tr>
@@ -207,15 +230,15 @@ Project creation & collaboration.
 </tr>
 </table>
 
-૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
+૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
 
-*one little step at a time...*
+<font color="#FF69B4">one little step at a time...</font>
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 ---
 
-# ୨୧ ˚₊‧ Let's Connect ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ <font color="#FF69B4">Let's Connect</font> ‧₊˚ ୨୧
 
 ♡ **Internships**  
 ♡ **Volunteer Opportunities**  
@@ -234,21 +257,27 @@ massiel.nunez2026@mottach.superate.org
 
 ╰──────────────────────────────────╯
 
-(づ˶•༝•˶)づ♡ *let's create something meaningful*
+(づ˶•༝•˶)づ♡ <font color="#FF69B4">let's create something meaningful</font>
 
 ---
 
 <br>
 
-୨୧ ₊˚⊹♡ ───────────── ⋆｡°✩°｡⋆ ───────────── ♡⊹˚₊ ୨୧
+୨୧ ₊˚⊹♡ ───────── ⋆｡°✩°｡⋆ ───────── ♡⊹˚₊ ୨୧
 
 <img src="https://i.pinimg.com/736x/f0/79/57/f07957aed60b21ccf74212e048d4613c.jpg" width="190">
 
-### ૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+<br>
+
+### ૮ ˶ᵔ ᕤ ᵔ˶ ა ♡
+
+<font color="#FF69B4">
 
 **thank you for visiting my little corner**
 
 *stay curious · stay kind · keep creating*
+
+</font>
 
 <br>
 
@@ -258,7 +287,7 @@ massiel.nunez2026@mottach.superate.org
 
 ₊˚⊹♡ ───────────────────────── ♡⊹˚₊
 
-**made with love, creativity & pink pixels**
+<font color="#FF69B4"><b>made with love, creativity & pink pixels</b></font>
 
 ୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
 
