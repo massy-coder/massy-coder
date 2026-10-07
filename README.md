@@ -189,14 +189,7 @@ Massiel Edyth Núñez Robinson
 🎀 Made with love, creativity & pink pixels 🎀
 
 </div>
-🌸 Y para que el cuadradito de Currently Learning tampoco se mueva...
-Ese sí usa caracteres ╭──╮, así que si GitHub hace alguna locura con los emojis podría desalinearse. Si quieres que TODO tenga el mismo cuadrito perfecto que el de arriba, puedes reemplazarlo por:
 
-<table>
-<tr>
-<td align="center">
-
-💻 Programming  
 🐍 Python  
 🌐 Technology  
 🇫🇷 French  
