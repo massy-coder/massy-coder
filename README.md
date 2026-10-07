@@ -24,11 +24,11 @@
 
 ## 🎀 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff0f6" />
+<img src="https://github-readme-stats.vercel.app/api?username=massy-coder&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff0f6" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&title_color=ff69b4&text_color=777777&bg_color=fff0f6" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massy-coder&layout=compact&hide_border=true&title_color=ff69b4&text_color=777777&bg_color=fff0f6" />
 
 ## 🌸 A Little Reminder
 
