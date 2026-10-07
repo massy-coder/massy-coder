@@ -85,7 +85,7 @@ skills and creating connections that inspire growth.
 ♡ Microsoft Word  
 ♡ Canva  
 ♡ Python  
-♡ Git & GitHub
+♡ GitHub
 
 ╰──────────────────────────────╯
 
