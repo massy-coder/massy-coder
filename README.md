@@ -2,147 +2,70 @@
 
 # ୨୧ ˚₊‧꒰ა Massiel ໒꒱ ‧₊˚ ୨୧
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&duration=3000&pause=800&color=FF69B4&center=true&vCenter=true&width=650&lines=welcome+to+my+little+corner+%E2%99%A1;developer+%E2%80%A2+creative+thinker+%E2%80%A2+dreamer;turning+ideas+into+meaningful+things+%E2%8A%B9;always+learning+%E2%80%A2+always+growing+%E2%80%A2+always+creating" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=24&duration=2800&pause=700&color=FF69B4&center=true&vCenter=true&width=650&lines=welcome+to+my+little+corner+%E2%99%A1;developer+%E2%80%A2+creative+thinker+%E2%80%A2+dreamer;turning+ideas+into+meaningful+things+%E2%9C%A7;always+learning+%E2%80%A2+always+creating+%E2%80%A2+always+growing" />
 
 <br>
 
-୨୧ ──────────────── ⋆｡°✩°｡⋆ ──────────────── ୨୧
-
-(˶ᵔ ᵕ ᵔ˶) ♡ **hello, welcome to my little corner** ♡ (˶ᵔ ᵕ ᵔ˶)
-
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
-
-I've always been driven by **curiosity and creativity**.
-I enjoy turning ideas into meaningful experiences and creating
-connections that inspire growth.
-
-꒰ა ♡ ໒꒱
-
-> *"Keep creating, keep learning, and never stop being curious."*
-
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+<img src="https://i.pinimg.com/originals/61/e9/0c/61e90c7a223576fb018e9348145f08ce.jpg" width="220">
 
 <br>
+
+୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
+
+(˶ᵔ ᵕ ᵔ˶) ♡ **hi hi! welcome to my little corner** ♡
+
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 <table>
 <tr>
 <td align="center">
 
-╭─────────────── ୨୧ ───────────────╮
+╭────────────── ୨୧ ──────────────╮
 
-**୨୧ Name ୨୧**  
-Massiel
+♡ **Developer**  
+♡ **Creative Thinker**  
+♡ **Python Learner**  
+♡ **Public Speaker**  
+♡ **Lifelong Learner**
 
-**୨୧ Role ୨୧**  
-Developer
-
-**୨୧ Vibe ୨୧**  
-Cute & Pink
-
-**୨୧ Learning ୨୧**  
-Everything!
-
-**୨୧ Hobby ୨୧**  
-Coding <3
-
-╰─────────────── ୨୧ ───────────────╯
+╰────────────── ୨୧ ──────────────╯
 
 </td>
 </tr>
 </table>
 
-₊˚⊹♡ ──────────────── ♡ ──────────────── ♡⊹˚₊
+૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
-(づ˶•༝•˶)づ♡ **a little corner made with love** ♡
+*curiosity · creativity · kindness · growth*
+
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 ---
 
 # ୨୧ ˚₊‧ About Me ‧₊˚ ୨୧
 
-꒰ ˶ᵔ ᵕ ᵔ˶ ꒱
+I've always been driven by **curiosity and creativity**.
 
-I value **authenticity, kindness, and continuous learning**.
+I love turning ideas into meaningful things, learning new
+skills and creating connections that inspire growth.
 
-I believe meaningful impact begins with **empathy, integrity,
-and the willingness to help others grow**.
+╭────────────────────────────────╮
 
-I'm interested in combining **technology, creativity and
-communication** to transform ideas into meaningful solutions.
+♡ always learning  
+♡ always creating  
+♡ always growing
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+╰────────────────────────────────╯
 
-### ૮꒰ ˶• ༝ •˶꒱ა ♡
-
-**curiosity** ── **creativity** ── **kindness** ── **growth**
-
-### ૮ ˶ᵔ ᵕ ᵔ˶ ა
-
-always learning  
-always creating  
-always growing
-
----
-
-# ୨୧ ˚₊‧ What Defines Me ‧₊˚ ୨୧
-
-<table>
-<tr>
-<td align="center">
-
-୨୧ **Always Learning** ୨୧  
-૮ ˶ᵔ ᵕ ᵔ˶ ა
-
-</td>
-<td align="center">
-
-୨୧ **Creativity** ୨୧  
-(˶˃ ᵕ ˂˶)
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-୨୧ **Public Speaking** ୨୧  
-(๑•̀ㅂ•́)و
-
-</td>
-<td align="center">
-
-୨୧ **Curiosity** ୨୧  
-(｡•̀ᴗ-)✧
-
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-୨୧ **Empathy** ୨୧  
-(づ˶•༝•˶)づ
-
-</td>
-<td align="center">
-
-୨୧ **Leadership** ୨୧  
-૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
-
-</td>
-</tr>
-</table>
-
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+(づ˶•༝•˶)づ♡
 
 ---
 
 # ୨୧ ˚₊‧ Skills ‧₊˚ ୨୧
 
-### ୨୧ Software ୨୧
-
 <img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
 
-<br>
+<br><br>
 
 ╭──────────────────────────────╮
 
@@ -156,166 +79,103 @@ always growing
 
 ### ୨୧ Languages ୨୧
 
-**Spanish** ───────── Native  
-**English** ───────── Fluent  
-**French** ────────── Beginner
+**Spanish** ── Native  
+**English** ── Fluent  
+**French** ── Beginner
 
-(˶ᵔ ᵕ ᵔ˶)੭⁾⁾ *petit à petit...* ♡
+(｡•̀ᴗ-)✧ *petit à petit...*
+
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 ---
 
 # ୨୧ ˚₊‧ Projects ‧₊˚ ୨୧
 
-₊˚⊹♡ ─────────────── ♡ ─────────────── ♡⊹˚₊
-
-## ♡ HealthBoost
+### ♡ HealthBoost
 
 ╭──────────────────────────────────╮
 
-**HealthBoost** is a project I had the opportunity
-to participate in creating.
+Participated in the **creation and development
+of HealthBoost**, helping transform an idea
+into a meaningful project.
 
-I contributed to the process of transforming an idea
-into a meaningful project and worked collaboratively
-to help bring the concept to life.
-
-**Role:** Contributor / Creator  
-**Focus:** Technology & Meaningful Impact
+`technology` · `creativity` · `impact`
 
 ╰──────────────────────────────────╯
 
-૮ ˶ᵔ ᵕ ᵔ˶ ა ♡ *creating with purpose*
+૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
----
+### ♡ Creative Entrepreneurship
 
-## ♡ Creative Entrepreneurship
+Created a small **second-hand clothing business
+with my cousin**, while exploring handmade crafts
+and creative school projects.
 
-╭──────────────────────────────────╮
+`creativity` · `entrepreneurship` · `innovation`
 
-Creativity has always been part of my journey.
-
-From building a small **second-hand clothing business
-with my cousin**, to designing handmade crafts and
-developing school projects, I've learned to transform
-ideas into meaningful solutions.
-
-╰──────────────────────────────────╯
-
-୨୧ creativity  
-୨୧ entrepreneurship  
-୨୧ handmade projects  
-୨୧ problem solving
-
-(˶˃ ᵕ ˂˶) ♡
-
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 ---
 
 # ୨୧ ˚₊‧ Achievements ‧₊˚ ୨୧
 
-### ♡ Cisco Python Certification
-
 ╭──────────────────────────────────╮
 
-Completed a **Cisco certification in Python**,
-strengthening my programming foundations and
-technical skills.
+♡ **Cisco Python Certification**  
+Python programming certification.
+
+♡ **Class Representative**  
+Leadership · communication · public speaking.
+
+♡ **¡Supérate!**  
+Communication · culture · lifelong learning.
+
+♡ **HealthBoost**  
+Project creation & collaboration.
 
 ╰──────────────────────────────────╯
 
-### ♡ Class Representative
-
-╭──────────────────────────────────╮
-
-Serving as a class representative strengthened my
-communication, leadership, organization and
-public speaking skills.
-
-╰──────────────────────────────────╯
-
-### ♡ ¡Supérate!
-
-╭──────────────────────────────────╮
-
-Programs like **¡Supérate!** shaped my passion
-for communication, culture and lifelong learning.
-
-╰──────────────────────────────────╯
-
-### ♡ HealthBoost
-
-╭──────────────────────────────────╮
-
-Participated in the creation and development
-of **HealthBoost**.
-
-╰──────────────────────────────────╯
-
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
-
-(｡•̀ᴗ-)✧ **small achievements become big dreams**
+(˶˃ ᵕ ˂˶) ♡ *small achievements, big dreams*
 
 ---
 
 # ୨୧ ˚₊‧ Creating Impact ‧₊˚ ୨୧
 
-## ♡ TECHO Panamá
+**TECHO Panamá** ♡ **Muchachas Guías** ♡ **¡Supérate!**
 
-Participated in volunteer experiences focused on
-community, solidarity and positive social impact.
+╭──────────────────────────────────╮
 
-## ♡ Muchachas Guías
+♡ volunteering  
+♡ leadership  
+♡ teamwork  
+♡ community  
+♡ personal growth
 
-Experiences that encouraged leadership, teamwork,
-service and personal growth.
+╰──────────────────────────────────╯
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+(づ｡◕‿‿◕｡)づ ♡
 
-(づ｡◕‿‿◕｡)づ ♡ *doing little things that matter*
+*small actions can create meaningful change*
 
----
-
-# ୨୧ ˚₊‧ Academic Journey ‧₊˚ ୨୧
-
-My academic journey has helped me discover the importance
-of **communication, leadership, creativity and continuous
-learning**.
-
-Programs such as **¡Supérate!** strengthened my passion
-for communication and culture, while serving as a **class
-representative** helped me develop confidence, leadership
-and public speaking skills.
-
-╭────────────────────────────────╮
-
-♡ always learning  
-♡ always growing  
-♡ always creating
-
-╰────────────────────────────────╯
-
-૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 ---
 
-# ୨୧ ˚₊‧ GitHub Activity ‧₊˚ ୨୧
+# ୨୧ ˚₊‧ GitHub Garden ‧₊˚ ୨୧
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
-
-### ୨୧ My little coding garden ୨୧
-
-<img src="https://github-readme-stats.vercel.app/api?username=massy-coder&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff0f6&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api?username=massy-coder&show_icons=true&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=777777&bg_color=fff0f6&border_radius=20" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massi-coder&layout=compact&hide_border=true&title_color=ff69b4&text_color=777777&bg_color=fff0f6&border_radius=15" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=massy-coder&layout=compact&hide_border=true&title_color=ff69b4&text_color=777777&bg_color=fff0f6&border_radius=20" />
 
 <br>
 
 <img src="https://streak-stats.demolab.com?user=massy-coder&hide_border=true&background=FFF0F6&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=999999&currStreakNum=FF69B4&sideNums=FF69B4" />
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+<br>
+
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 (˶ᵔ ᵕ ᵔ˶) ♡ *little commits, little progress*
 
@@ -342,38 +202,34 @@ and public speaking skills.
 </tr>
 </table>
 
-૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡
+૮₍ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
 
 *one little step at a time...*
+
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 ---
 
 # ୨୧ ˚₊‧ Let's Connect ‧₊˚ ୨୧
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+I'm always happy to connect for:
 
-I'm interested in opportunities where I can
+♡ **Internships**  
+♡ **Volunteer Opportunities**  
+♡ **Collaborative Projects**  
+♡ **Learning Experiences**
 
-**learn · create · collaborate · make an impact**
+<br>
 
 ╭──────────────────────────────────╮
 
-♡ Internships  
-♡ Volunteer Opportunities  
-♡ Collaborative Projects  
-♡ Learning Experiences
-
-╰──────────────────────────────────╯
-
-### ୨୧ Contact ୨୧
-
-**Email:**  
+♡ **Email**  
 massiel.nunez2026@mottach.superate.org
 
-**LinkedIn:**  
-LINKEDIN_URL
+♡ **LinkedIn**  
+[Massiel Edyth Núñez Robinson](https://www.linkedin.com/in/massiel-edyth-núñez-robinson-a3971840)
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+╰──────────────────────────────────╯
 
 (づ˶•༝•˶)づ♡ *let's create something meaningful*
 
@@ -389,12 +245,14 @@ LINKEDIN_URL
 
 *stay curious · stay kind · keep creating*
 
+<br>
+
 ♡₊˚ 🧸 ˚₊♡ ₊˚⊹ ୨୧ ⊹˚₊ ♡₊˚ 🧸 ˚₊♡
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+₊˚⊹♡ ───────────────────── ♡⊹˚₊
 
 **made with love, creativity & pink pixels**
 
-₊˚⊹♡ ───────────────────────── ♡⊹˚₊
+୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
 
 </div>
