@@ -1,16 +1,24 @@
 <div align="center">
 
-# 🎀 Hi, I'm Massiel! 🌷
+# 🎀 Massiel 🌷
 
-### 💗 Developer • Creative Thinker • Lifelong Learner
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=25&duration=3000&pause=900&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi%2C+welcome+to+my+little+corner+%E2%99%A1;Developer+%E2%80%A2+Creative+Thinker+%E2%80%A2+Dreamer+%F0%9F%8C%B7;Turning+ideas+into+meaningful+things+%F0%9F%A7%B8;Always+learning%2C+always+growing+%F0%9F%8E%80" />
 
-♡ ─────────────────────────────── ♡
+🌷 ₊˚⊹♡ ─────────────── ♡⊹˚₊ 🌷
 
-I’ve always been driven by **curiosity and creativity**.
+### ₍ᐢ. .ᐢ₎ ₊˚⊹ **Welcome to my little corner!** 🎀
+
+I've always been driven by **curiosity and creativity**.
 I enjoy turning ideas into meaningful experiences and creating
-connections that inspire growth. 🌸
+connections that inspire growth. 💗
 
-<br>
+> ૮ ˶ᵔ ᵕ ᵔ˶ ა  
+> *A little bit of creativity, a little bit of code,*  
+> *and lots of dreams. 🌸*
+
+---
+
+## 🧸 About Me
 
 <table>
 <tr>
@@ -26,114 +34,144 @@ connections that inspire growth. 🌸
 </tr>
 </table>
 
-♡ ─────────────────────────────── ♡
+<br>
 
-## 🌸 About Me
+(づ｡◕‿‿◕｡)づ 💗 *sending you a little bit of kindness* 💗
+
+---
+
+## 🌸 Who I Am
 
 I value **authenticity, kindness, and continuous learning**.
 
 I believe meaningful impact begins with **empathy, integrity,
-and the willingness to help others grow**. 💗
+and the willingness to help others grow**.
 
-I'm passionate about combining technology, creativity and
-communication to transform ideas into meaningful solutions.
+I'm interested in combining **technology, creativity and
+communication** to turn ideas into meaningful solutions.
+
+૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა ♡
 
 ---
 
 ## 🎀 What Defines Me
 
-🌷 Always learning  
-🎤 Public Speaking  
-🎨 Creativity  
-🔎 Curiosity  
-💗 Empathy  
-🇫🇷 Learning French  
-🤝 Leadership & Communication  
+| 🌷 | 💗 |
+|---|---|
+| ✨ Always learning | 🎤 Public Speaking |
+| 🎨 Creativity | 🔎 Curiosity |
+| 💕 Empathy | 🇫🇷 French |
+| 🌱 Growth | 🤝 Leadership |
 
 ---
 
-## 💻 Skills
+## 💻 Skills & Languages
 
 ### 🌸 Software
 
-| Skill | Experience |
-|---|---|
-| 💻 Python | Programming & projects |
-| 📊 Microsoft Excel | Productivity & organization |
-| 📝 Microsoft Word | Documents & academic work |
-| 🎨 Canva | Creative design & visual content |
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
 
-### 🎀 Languages
+<br><br>
+
+🎀 **Microsoft Excel**  
+🎀 **Microsoft Word**  
+🎀 **Canva**
+
+### 🧸 Languages
 
 🇪🇸 **Spanish** — Native  
 🇺🇸 **English** — Fluent  
-🇫🇷 **French** — Beginner  
+🇫🇷 **French** — Beginner
+
+> (｡•̀ᴗ-)✧ *learning one little word at a time!* 🇫🇷🌷
 
 ---
 
 ## 🌷 Projects
 
-### 💗 HealthBoost
+### 🩷 HealthBoost
 
-A project focused on creating a meaningful solution through
-technology and innovation.
+**HealthBoost** is one of the projects I've had the opportunity
+to participate in creating.
 
-🎀 **My contribution:** Participated in the creation and
-development of **HealthBoost**, collaborating in the process
-of turning an idea into a real project.
+I contributed to the process of transforming an idea into a
+meaningful project, working alongside others to bring the concept
+to life.
 
-> 🌸 Creating technology with purpose and impact.
+🌸 **Project:** HealthBoost  
+🎀 **Role:** Contributor / Creator  
+💡 **Focus:** Technology + Meaningful Impact
+
+> 🧸 *Creating things that can make a difference.*
 
 ---
 
-### 🧸 Creative Entrepreneurship
+### 🎀 Creative Entrepreneurship
 
 Creativity has always been part of my journey.
 
-From building a small **second-hand clothing business with my
-cousin** to designing handmade crafts and developing school
-projects, I have learned how to transform ideas into meaningful
+From creating a small **second-hand clothing business with my
+cousin**, to designing handmade crafts and developing school
+projects, I've learned to transform ideas into meaningful
 solutions.
 
-🎀 Creativity  
-🌷 Entrepreneurship  
-💡 Problem Solving  
-🧵 Handmade Projects  
+૮꒰ ˶• ༝ •˶꒱ა ♡
+
+🎨 Creativity  
+💡 Innovation  
+🧵 Handmade projects  
+🛍️ Entrepreneurship  
+🌷 Problem solving
 
 ---
 
 ## 🏆 Achievements & Certifications
 
-🎀 **Cisco Python Certification**  
-Completed a Cisco certification focused on **Python programming**.
+🎀 **Cisco — Python Certification**
 
-🌷 **Class Representative**  
-Strengthened my communication, leadership and organizational
-skills by representing my classmates.
+Completed a Cisco certification focused on **Python programming**,
+strengthening my foundations in programming and technology.
 
-💗 **¡Supérate! Program**  
-Participating in programs like **¡Supérate!** shaped my passion
-for communication, culture and lifelong learning.
+<br>
 
-🧸 **HealthBoost**  
-Participated in the creation and development of the HealthBoost
-project.
+🌷 **Class Representative**
+
+Serving as a class representative helped me strengthen my
+**communication, leadership, organization and public speaking**
+skills.
+
+<br>
+
+💗 **¡Supérate! Program**
+
+Programs like **¡Supérate!** shaped my passion for communication,
+culture and lifelong learning.
+
+<br>
+
+🧸 **HealthBoost**
+
+Participated in the creation and development of **HealthBoost**.
+
+> ✧･ﾟ: *✧･ﾟ:* keep learning, keep growing *:･ﾟ✧*:･ﾟ✧
 
 ---
 
 ## 🌸 Creating Impact
 
-### 🤝 TECHO Panamá
+### 🏡 TECHO Panamá
 
-Participated in volunteer experiences focused on community,
-solidarity and creating positive social impact.
+Volunteer experiences that allowed me to connect with others,
+serve my community and contribute to positive social impact.
 
 ### 🎀 Muchachas Guías
 
-Part of experiences that encouraged leadership, personal growth,
-teamwork and service.
+Experiences that encouraged **leadership, teamwork, service
+and personal growth**.
 
-> 💗 I believe that small actions can create meaningful change.
+> 🌷 I believe small actions can create meaningful change.
+
+(っ˘ω˘ς ) ♡
 
 ---
 
@@ -147,16 +185,32 @@ communication and culture, while serving as a **class
 representative** helped me develop confidence, leadership and
 public speaking skills.
 
-🌷 Always learning.  
-🎀 Always growing.  
-💗 Always creating.
+### 🌱 Always learning.
+### 🎀 Always growing.
+### 💗 Always creating.
 
 ---
 
-## 🌱 Currently Learning
+## 🧸 Currently Learning
 
-╭──────────────────────────────────╮ │ │ │ 💻 Programming │ │ 🐍 Python │ │ 🌐 Technology │ │ 🇫🇷 French │ │ 🎤 Communication │ │ 💡 Creative Problem Solving │ │ │ ╰──────────────────────────────────╯
+<table>
+<tr>
+<td align="center">
 
+💻 Programming  
+🐍 Python  
+🌐 Technology  
+🇫🇷 French  
+🎤 Communication  
+💡 Creative Problem Solving  
+
+</td>
+</tr>
+</table>
+
+<br>
+
+₍ᐢ. ̫.ᐢ₎♡ *tiny steps are still steps!* ♡
 
 ---
 
@@ -170,7 +224,7 @@ collaborate and make an impact**.
 💼 Internships  
 🤝 Volunteer Opportunities  
 💻 Collaborative Projects  
-🌸 Learning Experiences  
+🌸 Learning Experiences
 
 <br>
 
@@ -178,24 +232,21 @@ collaborate and make an impact**.
 massiel.nunez2026@mottach.superate.org
 
 💼 **LinkedIn:**  
-Massiel Edyth Núñez Robinson
+LINKEDIN_URL
 
-♡ ─────────────────────────────── ♡
+---
 
-### 🧸 Thanks for visiting my little corner of GitHub! 🌷
+🌷 ₊˚⊹♡ ─────────────────── ♡⊹˚₊ 🌷
 
-> *"Keep creating, keep learning, and never stop being curious."* 💗
+### 🧸 Thank you for visiting my little corner! 🎀
 
-🎀 Made with love, creativity & pink pixels 🎀
+૮ ˶ᵔ ᵕ ᵔ˶ ა  
+**Stay curious. Stay kind. Keep creating.** 💗
+
+> 🌸 *"Keep creating, keep learning, and never stop being curious."*
+
+♡₊˚ 🦢・₊✧ 🧸 ₊˚⊹ 🌷 ⊹˚₊ 🎀
+
+**Made with love, creativity & pink pixels** 💗
 
 </div>
-
-🐍 Python  
-🌐 Technology  
-🇫🇷 French  
-🎤 Communication  
-💡 Creative Problem Solving  
-
-</td>
-</tr>
-</table>
