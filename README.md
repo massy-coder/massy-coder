@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
+૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
 
 <font color="#FF69B4">curiosity · creativity · kindness · growth</font>
 
@@ -105,7 +105,15 @@ skills and creating connections that inspire growth.
 
 <br>
 
-<font color="#FF69B4">૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡ busy coding...</font>
+<font color="#FF69B4">૮ ˶ᵔ ᕤ ᵔ˶ ა ♡ busy coding...</font>
+
+<br><br>
+
+<img src="https://media1.tenor.com/m/vpYRkdqgFbAAAAAd/emocionada.gif" width="170">
+
+<br>
+
+<font color="#FF69B4">(˶˃ ᵕ ˂˶)♡ coding makes me so happy!</font>
 
 ---
 
@@ -122,7 +130,7 @@ helping transform an idea into a meaningful project.
 
 ╰──────────────────────────────────╯
 
-૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+૮ ˶ᵔ ᵕ ᵔ˶ ა ♡
 
 ╭──────────────────────────────────╮
 
@@ -159,7 +167,7 @@ Project creation & collaboration.
 
 ╰──────────────────────────────────╯
 
-૮₍ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+૮₍ ˶ᵔ ᕤ ᵔ˶ ₎ა ♡
 
 <font color="#FF69B4">small achievements, big dreams</font>
 
@@ -205,7 +213,7 @@ Project creation & collaboration.
 
 ୨୧ ₊˚⊹♡ ───────────────── ♡⊹˚₊ ୨୧
 
-(˶ᵔ ᵕ ᵔ˶) ♡ <font color="#FF69B4">little commits, little progress</font>
+(˶ᵔ ᵕ ᔵᶿ ₎ა ♡ <font color="#FF69B4">little commits, little progress</font>
 
 ---
 
@@ -230,7 +238,7 @@ Project creation & collaboration.
 </tr>
 </table>
 
-૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+૮ ˶ᵔ ᕤ ᵔ˶ ა ♡
 
 <font color="#FF69B4">one little step at a time...</font>
 
@@ -269,7 +277,7 @@ massiel.nunez2026@mottach.superate.org
 
 <br>
 
-### ૮ ˶ᵔ ᕤ ᵔ˶ ა ♡
+### ૮ ˶ᵔ ᕤ ᔵᶿ ა ♡
 
 <font color="#FF69B4">
 
@@ -290,5 +298,3 @@ massiel.nunez2026@mottach.superate.org
 <font color="#FF69B4"><b>made with love, creativity & pink pixels</b></font>
 
 ୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
-
-</div>
