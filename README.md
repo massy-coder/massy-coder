@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=25&duration=2600&pause=650&color=FF69B4&center=true&vCenter=true&width=700&lines=welcome+to+my+little+corner+%E2%99%A1;hi%2C+I'm+Massiel+%E2%8A%B9;developer+%E2%80%A2+creative+thinker+%E2%80%A2+dreamer;turning+ideas+into+meaningful+things+%E2%99%A1;always+learning+%E2%80%A2+always+creating+%E2%80%A2+always+growing" />
 
+<br>
+
+<img src="https://i.pinimg.com/originals/61/e9/0c/61e90c7a223576fb018e9348145f08ce.jpg" width="220">
+
 <br><br>
 
 ୨୧ ₊˚⊹♡ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ♡⊹˚₊ ୨୧
@@ -71,7 +75,7 @@ skills and creating connections that inspire growth.
 
 # ୨୧ ˚₊‧ <font color="#FF69B4">Skills</font> ‧₊˚ ୨୧
 
-<img src="https://skillicons.dev/icons?i=python,html,git,github,vscode&theme=light" />
+<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" />
 
 <br><br>
 
@@ -80,25 +84,10 @@ skills and creating connections that inspire growth.
 ♡ Microsoft Excel  
 ♡ Microsoft Word  
 ♡ Canva  
-♡ HTML  
 ♡ Python  
-♡ Git  
-♡ GitHub  
-♡ Visual Studio Code
+♡ GitHub
 
 ╰──────────────────────────────╯
-
-<br>
-
-<img src="https://media.giphy.com/media/xT9Igqg5DEYCF5X3cQ/giphy.gif" width="190">
-
-<br>
-
-<font color="#FF69B4">
-૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡ coding, creating & collecting little ideas...
-</font>
-
-<br><br>
 
 ### ୨୧ <font color="#FF69B4">Languages</font> ୨୧
 
@@ -116,7 +105,7 @@ skills and creating connections that inspire growth.
 
 <br>
 
-<font color="#FF69B4">૮ ˶ᵔ ᕤ ᔵᶿ ა ♡ busy coding...</font>
+<font color="#FF69B4">૮ ˶ᵔ ᕤ ᵔ˶ ა ♡ busy coding...</font>
 
 <br><br>
 
@@ -178,7 +167,7 @@ Project creation & collaboration.
 
 ╰──────────────────────────────────╯
 
-૮₍ ˶ᵔ ᕤ ᔵᶿ ₎ა ♡
+૮₍ ˶ᵔ ᕤ ᵔ˶ ₎ა ♡
 
 <font color="#FF69B4">small achievements, big dreams</font>
 
@@ -238,7 +227,6 @@ Project creation & collaboration.
 
 ♡ Programming  
 ♡ Python  
-♡ HTML  
 ♡ Technology  
 ♡ French  
 ♡ Communication  
@@ -250,7 +238,7 @@ Project creation & collaboration.
 </tr>
 </table>
 
-૮ ˶ᵔ ᕤ ᔵᶿ ა ♡
+૮ ˶ᵔ ᕤ ᵔ˶ ა ♡
 
 <font color="#FF69B4">one little step at a time...</font>
 
