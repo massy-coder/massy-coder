@@ -277,7 +277,7 @@ massiel.nunez2026@mottach.superate.org
 
 <br>
 
-### ૮ ˶ᵔ ᕤ ᔵᶿ ა ♡
+### ✧｡٩(ˊᗜˋ )و✧*｡
 
 <font color="#FF69B4">
 
