@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+୧(•ᴗ•)(•ᴗ•)୨♡⋆˚࿔
 
 <font color="#FF69B4">curiosity · creativity · kindness · growth</font>
 
@@ -167,7 +167,7 @@ Project creation & collaboration.
 
 ╰──────────────────────────────────╯
 
-૮₍ ˶ᵔ ᕤ ᵔ˶ ₎ა ♡
+૮₍´˶• . • ⑅ ₎ა
 
 <font color="#FF69B4">small achievements, big dreams</font>
 
@@ -238,7 +238,7 @@ Project creation & collaboration.
 </tr>
 </table>
 
-૮ ˶ᵔ ᕤ ᵔ˶ ა ♡
+⸜(｡ •̀ ᵕ 📷) ✧
 
 <font color="#FF69B4">one little step at a time...</font>
 
