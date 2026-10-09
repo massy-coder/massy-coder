@@ -87,7 +87,7 @@ I'm curious about how ideas become real projects. Whether I'm learning Python, w
 ## ♡ Featured Projects
 
 <details open>
-<summary><b>🌸 HealthBoost — Health & Technology</b></summary>
+<summary><b> HealthBoost — Health & Technology</b></summary>
 
 A collaborative project focused on promoting healthier lifestyles and well-being among young people.
 
@@ -100,7 +100,7 @@ A collaborative project focused on promoting healthier lifestyles and well-being
 </details>
 
 <details open>
-<summary><b>🎀 Creative Entrepreneurship</b></summary>
+<summary><b> Creative Entrepreneurship</b></summary>
 
 Co-created a small second-hand clothing business with my cousin, exploring entrepreneurship, creativity, and sustainable consumption.
 
