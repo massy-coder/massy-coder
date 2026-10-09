@@ -1,167 +1,220 @@
 
 <div align="center">
 
-# Massiel Núñez
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=18&duration=2800&pause=800&color=DB6B9B&center=true&vCenter=true&width=600&lines=welcome+to+my+creative+space+%E2%99%A1;technology+meets+creativity;learning%2C+creating+%26+growing+every+day" alt="Welcome" />
+
+# ୨୧ **Massiel Núñez** ♡
 
 ### Accounting Student · Python Learner · Creative Thinker
-
-<p>
-  <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=19&duration=3000&pause=1000&color=D96C9D&center=true&vCenter=true&width=650&lines=Technology+%26+Creativity;Learning%2C+Building+%26+Growing;Turning+Ideas+into+Meaningful+Projects" alt="Introduction" />
-</p>
 
 <p>
   <i>Turning ideas into meaningful projects through technology, creativity, and communication.</i>
 </p>
 
-<p>
-  <a href="https://github.com/massy-coder">
-    <img src="https://img.shields.io/badge/GitHub-massy--coder-F3D3E2?style=flat-square&logo=github&logoColor=70445A" alt="GitHub" />
-  </a>
-  <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-F3D3E2?style=flat-square&labelColor=F3D3E2&color=E8B5CC" alt="Continuous learning" />
-</p>
+<img src="https://img.shields.io/badge/creativity-in%20progress-F6D9E6?style=flat-square" />
+<img src="https://img.shields.io/badge/learning-every%20day-EBC0D5?style=flat-square" />
+<img src="https://img.shields.io/badge/dreaming-with%20purpose-F8EAF1?style=flat-square" />
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=canva,python,vscode,github&theme=light" alt="Canva, Python, VS Code and GitHub" />
+
+୨୧ ─────────────── ⋆｡°✩°｡⋆ ─────────────── ୨୧
+
+♡ *a little creativity, a little code, a lot of dreams* ♡
 
 </div>
 
 ---
 
-## About Me
+## ♡ About Me
 
-Hello! I'm Massiel, an accounting student with an interest in technology, programming, creativity, and communication.
+Hello! I'm Massiel, an accounting student who loves exploring the intersection of **technology, creativity, and communication**.
 
-I enjoy learning new skills, exploring innovative ideas, and collaborating on projects that can make a positive difference.
+I'm curious about how ideas become real projects. Whether I'm learning Python, working on a collaborative initiative, or exploring creative solutions, I enjoy discovering new ways to grow and make a positive impact.
 
-My interests bring together analytical thinking and creativity, allowing me to approach challenges from different perspectives.
+<details>
+<summary>୨୧ A little more about me ♡</summary>
 
-- **Education:** Accounting
-- **Programming:** Learning Python and developing my technical skills
-- **Interests:** Technology, communication, entrepreneurship, and creative problem-solving
-- **Values:** Curiosity, responsibility, collaboration, and continuous improvement
+- 🎀 **Education:** Accounting
+- 💻 **Current focus:** Learning Python and developing my technical skills
+- 🎨 **Creative side:** Canva, design, and creative projects
+- 🗣️ **Communication:** English presentations, public speaking, and collaboration
+- 🌷 **Values:** Curiosity, kindness, responsibility, and continuous growth
 
----
-
-## Technical Skills
+</details>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode&theme=light" alt="Python, Git, GitHub, and Visual Studio Code" />
+*same girl, bigger dreams ♡*
 
 </div>
 
-| Category | Skills |
+---
+
+## ✿ Technical Skills
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=canva,python,vscode,github&theme=light" alt="Technical and creative tools" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Microsoft-Excel-B7DCC7?style=flat-square&logo=microsoftexcel&logoColor=217346" />
+<img src="https://img.shields.io/badge/Microsoft-Word-C6DDF5?style=flat-square&logo=microsoftword&logoColor=185ABD" />
+<img src="https://img.shields.io/badge/Canva-Design-C8C4F7?style=flat-square&logo=canva&logoColor=7044A3" />
+<img src="https://img.shields.io/badge/Python-Learning-F7E3A1?style=flat-square&logo=python&logoColor=3776AB" />
+
+</div>
+
+| Area | Skills |
 |:--|:--|
 | Programming | Python |
 | Productivity | Microsoft Excel, Microsoft Word |
-| Design & Creativity | Canva |
-| Version Control | Git, GitHub |
+| Design | Canva |
+| Development Tools | GitHub, Visual Studio Code |
 
-### Languages
+### ♡ Languages
 
-- **Spanish:** Native
-- **English:** B2 level
-- **French:** Beginner
+| Language | Level |
+|:--|:--|
+| Spanish | Native |
+| English | B2 |
+| French | Beginner |
 
 ---
 
-## Featured Projects
+## ♡ Featured Projects
 
-### HealthBoost
-**Student Project · Health & Technology**
+<details open>
+<summary><b>🌸 HealthBoost — Health & Technology</b></summary>
 
-Collaborated on the creation and development of HealthBoost, a project focused on promoting healthier lifestyles and well-being among young people.
+A collaborative project focused on promoting healthier lifestyles and well-being among young people.
 
-- Contributed to project development and planning.
+- Contributed to the creation and development of the project.
 - Explored how technology can support wellness initiatives.
-- Worked collaboratively to develop and communicate the project concept.
+- Collaborated on planning and communicating the project concept.
 
 `Project Development` `Wellness` `Collaboration`
 
-### Creative Entrepreneurship
-**Small Business & Creative Initiatives**
+</details>
 
-Co-created a second-hand clothing business with my cousin, exploring entrepreneurship, creativity, and sustainable consumption.
+<details open>
+<summary><b>🎀 Creative Entrepreneurship</b></summary>
+
+Co-created a small second-hand clothing business with my cousin, exploring entrepreneurship, creativity, and sustainable consumption.
 
 - Participated in developing a small business idea.
-- Explored creative approaches to presenting and promoting products.
+- Explored creative ways to present and promote products.
 - Developed an interest in entrepreneurship and resourcefulness.
 
 `Entrepreneurship` `Creativity` `Sustainability`
 
----
-
-## Certifications & Achievements
-
-- **Cisco Python Certification** — Programming education and Python fundamentals.
-- **Microsoft Office Specialist: Excel** — Excel certification.
-- **Microsoft Office Specialist: Excel Expert** — Advanced Excel certification.
-- **TOEIC Listening & Reading** — English proficiency assessment.
-- **Class Representative** — Leadership, communication, and student representation.
-- **¡Supérate! Program** — Ongoing development in English, technology, business, and personal growth.
-
----
-
-## Leadership & Community Involvement
-
-I value opportunities to learn through collaboration, community engagement, and service.
-
-- **TECHO Panamá** — Participation in community-oriented volunteer activities.
-- **Muchachas Guías** — Participation in group and personal development activities.
-- **¡Supérate!** — Engagement in educational, collaborative, and extracurricular initiatives.
-- **Public Speaking & Communication** — Participation in presentations, oral activities, and English-related activities.
-
-These experiences have helped me develop teamwork, communication, initiative, and a greater appreciation for community involvement.
-
----
-
-## Currently Learning
-
-- Python programming and computational thinking
-- Git and GitHub for project management
-- Problem-solving and analytical skills
-- English communication and public speaking
-- Creative approaches to technology and entrepreneurship
-
-I believe that progress comes from curiosity, consistent effort, and the willingness to keep learning.
-
----
-
-## GitHub Statistics
+</details>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=massy-coder&show_icons=true&hide_border=true&title_color=C75B8C&icon_color=D982AA&text_color=6F6570&bg_color=FFF7FA&border_radius=12" alt="GitHub statistics" />
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massy-coder&layout=compact&hide_border=true&title_color=C75B8C&text_color=6F6570&bg_color=FFF7FA&border_radius=12" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=massy-coder&hide_border=true&background=FFF7FA&ring=C75B8C&fire=D982AA&currStreakLabel=C75B8C&sideLabels=8A7480&dates=9C9298&currStreakNum=C75B8C&sideNums=C75B8C" alt="GitHub contribution streak" />
+୨୧ *making little ideas bloom* ♡
 
 </div>
 
 ---
 
-## Let's Connect
+## ✧ Certifications & Achievements
 
-I'm interested in opportunities that allow me to learn, collaborate, contribute, and continue developing my skills.
-
-- **Internships and professional experiences**
-- **Collaborative projects**
-- **Volunteer opportunities**
-- **Technology and creative initiatives**
-
-<p align="center">
-  <a href="mailto:massiel.nunez2026@mottach.superate.org">
-    <img src="https://img.shields.io/badge/Email-Connect-E8B5CC?style=flat-square&logo=gmail&logoColor=70445A" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/massiel-edyth-núñez-robinson-a3971840">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-F3D3E2?style=flat-square&logo=linkedin&logoColor=70445A" alt="LinkedIn" />
-  </a>
-</p>
-
-<div align="center">
+- **Cisco Python Certification** — Python programming fundamentals.
+- **Microsoft Office Specialist: Excel** — Excel certification.
+- **Microsoft Office Specialist: Excel Expert** — Advanced Excel certification.
+- **TOEIC Listening & Reading** — English proficiency assessment.
+- **Class Representative** — Leadership, communication, and student representation.
+- **¡Supérate! Program** — Development in English, technology, business, and personal growth.
 
 ---
 
-<sub><i>Stay curious. Keep creating. Grow with purpose.</i></sub>
+## ♡ Leadership & Community
 
-<sub>Designed with care in soft pink ♡</sub>
+I believe meaningful experiences come from working with others, sharing ideas, and contributing to the community.
+
+- **TECHO Panamá** — Community-oriented volunteer activities.
+- **Muchachas Guías** — Group activities and personal development.
+- **¡Supérate!** — Educational, collaborative, and extracurricular initiatives.
+- **Public Speaking & Communication** — Presentations, oral activities, and English-related activities.
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/teamwork-better%20together-F1D5E3?style=flat-square" />
+<img src="https://img.shields.io/badge/growth-one%20step%20at%20a%20time-E5DDF7?style=flat-square" />
+
+</div>
+
+---
+
+## 🌷 GitHub Garden
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=massy-coder&show_icons=true&hide_border=true&title_color=C75B8C&icon_color=DB8FB2&text_color=756875&bg_color=FFF7FA&border_radius=16" alt="GitHub statistics" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=massy-coder&layout=compact&hide_border=true&title_color=C75B8C&text_color=756875&bg_color=FFF7FA&border_radius=16" alt="Most used languages" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=massy-coder&hide_border=true&background=FFF7FA&ring=C75B8C&fire=E6A0BF&currStreakLabel=C75B8C&sideLabels=947B89&dates=A99AA3&currStreakNum=C75B8C&sideNums=C75B8C" alt="GitHub contribution streak" />
+
+<br>
+
+<sub>♡ little commits, big progress ♡</sub>
+
+</div>
+
+---
+
+## ✿ Currently Learning
+
+<div align="center">
+
+| ♡ | Learning Path |
+|:--:|:--|
+| 💻 | Python programming and computational thinking |
+| 🌐 | GitHub and project management |
+| 📊 | Analytical thinking and problem-solving |
+| 🗣️ | English communication and public speaking |
+| 🎨 | Creative approaches to technology and entrepreneurship |
+
+</div>
+
+<div align="center">
+
+*petit à petit... every step counts* ♡
+
+</div>
+
+---
+
+## 💌 Let's Connect
+
+I'm interested in opportunities to learn, collaborate, contribute, and continue developing my skills.
+
+<div align="center">
+
+<a href="mailto:massiel.nunez2026@mottach.superate.org">
+  <img src="https://img.shields.io/badge/Email-Let's%20connect-EBC0D5?style=for-the-badge&logo=gmail&logoColor=70445A" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/massiel-edyth-núñez-robinson-a3971840">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-F3DCE8?style=for-the-badge&logo=linkedin&logoColor=70445A" alt="LinkedIn" />
+</a>
+
+<br><br>
+
+♡ Internships · Collaborative Projects · Volunteer Opportunities ♡
+
+---
+
+<img src="https://img.shields.io/badge/made%20with-love%20%26%20creativity-EBC0D5?style=flat-square" />
+
+### ୨୧ Stay curious · Keep creating · Grow with purpose ୨୧
+
+<sub>designed with care, powered by dreams ♡</sub>
 
 </div>
