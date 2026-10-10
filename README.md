@@ -213,7 +213,7 @@ Project creation & collaboration.
 
 ୨୧ ₊˚⊹♡ ───────────────── ♡⊹˚₊ ୨୧
 
-(˶ᵔ ᵕ ᔵᶿ ₎ა ♡ <font color="#FF69B4">little commits, little progress</font>
+♡₊˚ 💻・₊✧ <font color="#FF69B4">little commits, little progress</font>
 
 ---
 
