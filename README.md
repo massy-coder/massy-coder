@@ -34,7 +34,7 @@
 </tr>
 </table>
 
-૮ ˶ᵔ ᵕ ᔵᶿ ₎ა ♡
+✧｡٩(ˊᗜˋ )و✧*｡
 
 <font color="#FF69B4">curiosity · creativity · kindness · growth</font>
 
@@ -167,7 +167,7 @@ Project creation & collaboration.
 
 ╰──────────────────────────────────╯
 
-૮₍ ˶ᵔ ᕤ ᵔ˶ ₎ა ♡
+૮꒰ ˶• ༝ •˶꒱ა ♡
 
 <font color="#FF69B4">small achievements, big dreams</font>
 
@@ -277,7 +277,7 @@ massiel.nunez2026@mottach.superate.org
 
 <br>
 
-### ૮ ˶ᵔ ᕤ ᔵᶿ ა ♡
+###୨୧ ──── 💌 ──── ୨୧
 
 <font color="#FF69B4">
 
