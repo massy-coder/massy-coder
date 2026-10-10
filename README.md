@@ -105,7 +105,7 @@ skills and creating connections that inspire growth.
 
 <br>
 
-<font color="#FF69B4">૮ ˶ᵔ ᕤ ᵔ˶ ა ♡ busy coding...</font>
+<font color="#FF69B4">♡₊˚ 💻・₊✧ ♡ busy coding...</font>
 
 <br><br>
 
@@ -213,7 +213,7 @@ Project creation & collaboration.
 
 ୨୧ ₊˚⊹♡ ───────────────── ♡⊹˚₊ ୨୧
 
-♡₊˚ 💻・₊✧ <font color="#FF69B4">little commits, little progress</font>
+(๑•̀ㅂ•́)و✧ <font color="#FF69B4">little commits, little progress</font>
 
 ---
 
