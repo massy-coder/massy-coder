@@ -277,7 +277,7 @@ massiel.nunez2026@mottach.superate.org
 
 <br>
 
-###୨୧ ──── 💌 ──── ୨୧
+୨୧ ──── 💌 ──── ୨୧
 
 <font color="#FF69B4">
 
@@ -298,13 +298,5 @@ massiel.nunez2026@mottach.superate.org
 <font color="#FF69B4"><b>made with love, creativity & pink pixels</b></font>
 
 <div align="center">
-
-# 🎀 ୨୧ My Little Pink Snake ୨୧ 🎀
-
-<img src="https://raw.githubusercontent.com/massy-coder/massy-coder/output/coquette-snake.svg" width="100%" alt="My pink GitHub snake"/>
-
-♡₊˚ 🐇 little commits, big dreams 🎀 ˚₊♡
-
-</div>
 
 ୨୧ ────────────── ⋆｡°✩°｡⋆ ────────────── ୨୧
